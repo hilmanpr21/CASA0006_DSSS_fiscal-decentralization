@@ -1,41 +1,41 @@
 akun,anggaran,realisasi,persentase
-Pendapatan Daerah,"1.810,45 M","1.879,36 M",103.81
-     PAD,"194,57 M","205,97 M",105.86
-         Pajak Daerah,"36,57 M","38,50 M",105.29
-         Retribusi Daerah,"8,87 M","10,05 M",113.38
-         Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan,"1,85 M","2,08 M",112.65
-         Lain-Lain PAD yang Sah,"147,28 M","155,33 M",105.46
-     TKDD,"1.464,23 M","1.463,54 M",99.95
-         Pendapatan Transfer Pemerintah Pusat,"1.464,23 M","1.463,54 M",99.95
-     Pendapatan Lainnya,"151,65 M","209,85 M",138.37
-         Pendapatan Transfer Antar Daerah,"92,45 M","132,84 M",143.69
-         Pendapatan Hibah,"0,00 M","0,00 M",0
-         Dana Darurat,"0,00 M","0,00 M",0
-         Lain-lain Pendapatan Sesuai dengan Ketentuan Peraturan Perundang-Undangan,"59,20 M","77,01 M",130.08
-Belanja Daerah,"2.182,10 M","1.978,70 M",90.68
-     Belanja Pegawai,"820,07 M","647,04 M",78.9
-     Belanja Barang Jasa,"517,05 M","611,53 M",118.27
-     Belanja Modal,"411,50 M","319,20 M",77.57
-     Belanja Lainnya,"433,48 M","400,94 M",92.49
-         Belanja Bunga,"0,00 M","0,00 M",0
-         Belanja Subsidi,"0,00 M","0,00 M",0
-         Belanja Hibah,"97,98 M","66,79 M",68.17
-         Belanja Bantuan Sosial,"16,62 M","17,31 M",104.18
-         Belanja Tidak Terduga,"3,50 M","16,09 M",459.68
-         Belanja Bagi Hasil,"4,55 M","4,09 M",89.84
-         Belanja Bantuan Keuangan,"310,84 M","296,66 M",95.44
-Surplus/(Defisit),"-371,65 M","-99,35 M",26.73
-Pembiayaan Daerah,"371,65 M","313,54 M",84.37
-     Penerimaan Pembiayaan Daerah,"412,05 M","313,89 M",76.18
-         Sisa Lebih Perhitungan Anggaran Tahun Sebelumnya,"412,05 M","313,87 M",76.17
-         Pencairan Dana Cadangan,"0,00 M","0,00 M",0
-         Penjualan Kekayaan Daerah yang Dipisahkan,"0,00 M","0,00 M",0
-         Penerimaan Pinjaman Daerah,"0,00 M","0,00 M",0
-         Penerimaan Kembali Pemberian Pinjaman Daerah,"0,00 M","0,01 M",0
-         Penerimaan Pembiayaan Lainnya Sesuai dengan Ketentuan Peraturan Perundang-Undangan,"0,00 M","0,00 M",0
-     Pengeluaran Pembiayaan Daerah,"40,40 M","0,35 M",0.86
-         Pembentukan Dana Cadangan,"20,00 M","0,35 M",1.73
-         Penyertaan Modal Daerah,"0,00 M","0,00 M",0
-         Pembayaran Cicilan Pokok Utang yang Jatuh Tempo,"20,40 M","0,00 M",0
-         Pemberian Pinjaman Daerah,"0,00 M","0,00 M",0
-         Pengeluaran Pembiayaan Lainnya Sesuai dengan Ketentuan Peraturan Perundang-Undangan,"0,00 M","0,00 M",0
+Pendapatan Daerah,"1.810,45","1.879,36",103.81
+     PAD,"194,57","205,97",105.86
+         Pajak Daerah,"36,57","38,50",105.29
+         Retribusi Daerah,"8,87","10,05",113.38
+         Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan,"1,85","2,08",112.65
+         Lain-Lain PAD yang Sah,"147,28","155,33",105.46
+     TKDD,"1.464,23","1.463,54",99.95
+         Pendapatan Transfer Pemerintah Pusat,"1.464,23","1.463,54",99.95
+     Pendapatan Lainnya,"151,65","209,85",138.37
+         Pendapatan Transfer Antar Daerah,"92,45","132,84",143.69
+         Pendapatan Hibah,"0,00","0,00",0.00
+         Dana Darurat,"0,00","0,00",0.00
+         Lain-lain Pendapatan Sesuai dengan Ketentuan Peraturan Perundang-Undangan,"59,20","77,01",130.08
+Belanja Daerah,"2.182,10","1.978,70",90.68
+     Belanja Pegawai,"820,07","647,04",78.90
+     Belanja Barang Jasa,"517,05","611,53",118.27
+     Belanjaodal,"411,50","319,20",77.57
+     Belanja Lainnya,"433,48","400,94",92.49
+         Belanja Bunga,"0,00","0,00",0.00
+         Belanja Subsidi,"0,00","0,00",0.00
+         Belanja Hibah,"97,98","66,79",68.17
+         Belanja Bantuan Sosial,"16,62","17,31",104.18
+         Belanja Tidak Terduga,"3,50","16,09",459.68
+         Belanja Bagi Hasil,"4,55","4,09",89.84
+         Belanja Bantuan Keuangan,"310,84","296,66",95.44
+Surplus/(Defisit),"-371,65","-99,35",26.73
+Pembiayaan Daerah,"371,65","313,54",84.37
+     Penerimaan Pembiayaan Daerah,"412,05","313,89",76.18
+         Sisa Lebih Perhitungan Anggaran Tahun Sebelumnya,"412,05","313,87",76.17
+         Pencairan Dana Cadangan,"0,00","0,00",0.00
+         Penjualan Kekayaan Daerah yang Dipisahkan,"0,00","0,00",0.00
+         Penerimaan Pinjaman Daerah,"0,00","0,00",0.00
+         Penerimaan Kembali Pemberian Pinjaman Daerah,"0,00","0,01",0.00
+         Penerimaan Pembiayaan Lainnya Sesuai dengan Ketentuan Peraturan Perundang-Undangan,"0,00","0,00",0.00
+     Pengeluaran Pembiayaan Daerah,"40,40","0,35",0.86
+         Pembentukan Dana Cadangan,"20,00","0,35",1.73
+         Penyertaanodal Daerah,"0,00","0,00",0.00
+         Pembayaran Cicilan Pokok Utang yang Jatuh Tempo,"20,40","0,00",0.00
+         Pemberian Pinjaman Daerah,"0,00","0,00",0.00
+         Pengeluaran Pembiayaan Lainnya Sesuai dengan Ketentuan Peraturan Perundang-Undangan,"0,00","0,00",0.00
